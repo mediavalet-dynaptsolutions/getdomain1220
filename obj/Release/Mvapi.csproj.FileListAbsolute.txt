@@ -1,0 +1,277 @@
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Mvapi.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Mvapi.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Mvapi.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Azure.KeyVault.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Data.Edm.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Data.OData.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Data.Services.Client.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Net.Http.Formatting.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Spatial.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Cors.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Http.Cors.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Http.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Http.WebHost.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\WindowsAzureTelemetryEvents.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\WindowsAzureEventSource.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Azure.KeyVault.Core.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Data.Edm.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Data.OData.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.Data.Services.Client.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Spatial.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Http.Cors.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Net.Http.Formatting.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Http.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\System.Web.Http.WebHost.xml
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\de\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\es\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\fr\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\it\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ja\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ko\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\ru\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\obj\Release\Mvapi.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\obj\Release\Mvapi.dll
+c:\users\admin\documents\visual studio 2015\Projects\Mvapi\Mvapi\obj\Release\Mvapi.pdb
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\csc.exe
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\System.Collections.Immutable.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\System.Reflection.Metadata.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\vbc.exe
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\VBCSCompiler.exe
+C:\development\Mvapi\Mvapi\Mvapi\bin\roslyn\VBCSCompiler.exe.config
+C:\development\Mvapi\Mvapi\Mvapi\bin\Mvapi.dll.config
+C:\development\Mvapi\Mvapi\Mvapi\bin\Mvapi.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Mvapi.pdb
+C:\development\Mvapi\Mvapi\Mvapi\bin\log4net.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Data.Edm.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Data.OData.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Data.Services.Client.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Web.Infrastructure.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\Newtonsoft.Json.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Net.Http.Formatting.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Spatial.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Cors.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Helpers.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Http.Cors.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Http.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Http.WebHost.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Mvc.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Razor.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.WebPages.Deployment.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.WebPages.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.WebPages.Razor.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\log4net.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Data.Edm.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Data.OData.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.Data.Services.Client.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\development\Mvapi\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\Newtonsoft.Json.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Spatial.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Helpers.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Http.Cors.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Mvc.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Razor.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.WebPages.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.WebPages.Deployment.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.WebPages.Razor.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Net.Http.Formatting.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Http.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\System.Web.Http.WebHost.xml
+C:\development\Mvapi\Mvapi\Mvapi\bin\de\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\es\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\it\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\de\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\es\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\fr\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\it\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ja\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ko\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ru\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\de\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\es\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\fr\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\it\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ja\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ko\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\ru\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hans\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\bin\zh-Hant\System.Spatial.resources.dll
+C:\development\Mvapi\Mvapi\Mvapi\obj\Release\Mvapi.csprojResolveAssemblyReference.cache
+C:\development\Mvapi\Mvapi\Mvapi\obj\Release\Mvapi.dll
+C:\development\Mvapi\Mvapi\Mvapi\obj\Release\Mvapi.pdb
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\csc.exe
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\System.Collections.Immutable.dll
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\vbc.exe
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\VBCSCompiler.exe
+D:\MVCode\Mvapi\Mvapi\bin\roslyn\VBCSCompiler.exe.config
+D:\MVCode\Mvapi\Mvapi\bin\Mvapi.dll.config
+D:\MVCode\Mvapi\Mvapi\bin\Mvapi.dll
+D:\MVCode\Mvapi\Mvapi\bin\Mvapi.pdb
+D:\MVCode\Mvapi\Mvapi\bin\log4net.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Data.Edm.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Data.OData.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Data.Services.Client.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Web.Infrastructure.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.dll
+D:\MVCode\Mvapi\Mvapi\bin\Newtonsoft.Json.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Net.Http.Formatting.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Spatial.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Cors.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Helpers.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Http.Cors.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Http.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Http.WebHost.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Mvc.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Razor.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.WebPages.Deployment.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.WebPages.dll
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.WebPages.Razor.dll
+D:\MVCode\Mvapi\Mvapi\bin\WindowsAzureTelemetryEvents.dll
+D:\MVCode\Mvapi\Mvapi\bin\WindowsAzureEventSource.dll
+D:\MVCode\Mvapi\Mvapi\bin\log4net.xml
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Data.Edm.xml
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Data.OData.xml
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.Data.Services.Client.xml
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\MVCode\Mvapi\Mvapi\bin\Microsoft.WindowsAzure.Storage.xml
+D:\MVCode\Mvapi\Mvapi\bin\Newtonsoft.Json.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Spatial.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Helpers.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Http.Cors.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Mvc.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Razor.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.WebPages.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.WebPages.Deployment.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.WebPages.Razor.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Net.Http.Formatting.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Http.xml
+D:\MVCode\Mvapi\Mvapi\bin\System.Web.Http.WebHost.xml
+D:\MVCode\Mvapi\Mvapi\bin\de\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\es\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\it\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\de\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\es\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\fr\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\it\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ja\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ko\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ru\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\de\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\es\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\fr\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\it\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ja\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ko\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\ru\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hans\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\bin\zh-Hant\System.Spatial.resources.dll
+D:\MVCode\Mvapi\Mvapi\obj\Release\Mvapi.csprojResolveAssemblyReference.cache
+D:\MVCode\Mvapi\Mvapi\obj\Release\Mvapi.dll
+D:\MVCode\Mvapi\Mvapi\obj\Release\Mvapi.pdb

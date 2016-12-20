@@ -1,0 +1,110 @@
+﻿INFO  2016-06-13 15:32:02,712   497ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 16:57:27,696  2180ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 17:01:26,767 241250ms EloquaController       notify             - Notify with no parameter is called successfully done
+INFO  2016-06-13 17:04:11,029   310ms EloquaController       notify             - Notify with no parameter is called successfully done
+INFO  2016-06-13 17:46:49,903 250907ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 17:47:29,616 290620ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 17:49:44,390 425394ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 17:51:00,129 501134ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 17:52:54,076 615081ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:00:59,054 1100059ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:08:16,194 1537199ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:10:29,899 1670903ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:16:56,496 2057500ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:19:21,997   412ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:30:19,758 560612ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 18:44:33,519 1414373ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 19:15:17,570   429ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 19:20:41,111 323971ms EloquaController       notify             - Notify with no parameter is called successfully done
+INFO  2016-06-13 19:31:20,237   449ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 19:33:44,211 144423ms EloquaController       notify             - Notify with no parameter is called successfully done
+INFO  2016-06-13 19:41:38,211   363ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 19:44:02,075 144228ms EloquaController       notify             - Notify with no parameter is called successfully done
+INFO  2016-06-13 19:47:57,653 379805ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 19:50:14,624 516776ms EloquaController       notify             - notify image url  < img src ="https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/3/bmx (3).jpg" />
+INFO  2016-06-13 19:50:14,624 516776ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 19:56:15,733   360ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:01:34,328 318955ms EloquaController       notify             - notify image url <div> < img src ="https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/3/bmx (3).jpg" /></div>
+INFO  2016-06-13 20:01:34,329 318956ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 20:13:09,019   386ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:15:11,965 123332ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/3/bmx (3).jpg' >"
+INFO  2016-06-13 20:15:11,966 123333ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 20:22:47,728 579096ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:25:33,822 745190ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:29:15,050  1795ms EloquaController       notify             - notify image url "<img src='https://mediavaletnawlive.blob.core.windows.net/medialibrary-02-d12924fd-e467-4f88-a66e-2a73a5a96702-r/0fc50155-5ca2-4ea5-a283-b1f817f90c27/0fc50155-5ca2-4ea5-a283-b1f817f90c27/3/travel (16).jpg' >"
+INFO  2016-06-13 20:29:15,083  1828ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 20:34:08,747   389ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:36:04,145 115787ms EloquaController       notify             - notify image url "<img src='https%3a%2f%2fmediavaletnawlive.blob.core.windows.net%2fmedialibrary-02-d12924fd-e467-4f88-a66e-2a73a5a96702-r%2f0fc50155-5ca2-4ea5-a283-b1f817f90c27%2f0fc50155-5ca2-4ea5-a283-b1f817f90c27%2f3%2ftravel+(16).jpg' >"
+INFO  2016-06-13 20:36:04,146 115788ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 20:42:33,096   375ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:45:55,163 202443ms EloquaController       notify             - notify image url "<img src='https://mediavaletnawlive.blob.core.windows.net/medialibrary-02-d12924fd-e467-4f88-a66e-2a73a5a96702-r/548130c0-50c5-4927-a900-c1d4670bd5b6/548130c0-50c5-4927-a900-c1d4670bd5b6/3/travel (3).jpg' >"
+INFO  2016-06-13 20:45:55,164 202444ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 20:52:21,459 588739ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 20:58:48,245 975525ms EloquaController       notify             - notify image url "<img src='https://mediavaletnawlive.blob.core.windows.net/medialibrary-02-d12924fd-e467-4f88-a66e-2a73a5a96702-r/548130c0-50c5-4927-a900-c1d4670bd5b6/548130c0-50c5-4927-a900-c1d4670bd5b6/3/travel (3).jpg' >"
+INFO  2016-06-13 20:58:48,245 975525ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-13 21:08:45,290 1572570ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 22:03:13,302   427ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-13 22:15:25,197 732323ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 04:29:38,628 19444ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 04:39:12,840 593657ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 04:41:09,759 710575ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 04:56:46,621 1647438ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 04:58:58,992 1779808ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10 (1).jpg' >"
+INFO  2016-06-14 04:58:58,993 1779809ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 05:08:48,107 86487ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 05:30:43,465 1401844ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 05:30:43,466 1401845ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 05:36:56,282   570ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 05:40:11,304 195591ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 05:42:57,152 361439ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10 (1).jpg' >"
+INFO  2016-06-14 05:42:57,154 361441ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 05:51:15,959 860246ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10 (1).jpg' >"
+INFO  2016-06-14 05:51:15,961 860248ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 05:53:47,590   384ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 05:56:27,407 160201ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 05:56:27,408 160202ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 05:57:48,293 241087ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 06:02:40,829 533624ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 06:02:40,830 533625ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 06:05:57,138 729932ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 06:10:34,524 1007319ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 06:10:34,524 1007319ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 06:26:53,408 1986202ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 06:28:55,795 2108590ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 06:28:55,796 2108591ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 06:35:49,824 67589ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 06:35:49,861 67626ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 07:07:28,211 568685ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 07:07:29,381 569854ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 07:08:50,676 651150ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 07:18:14,654 1215128ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 07:18:14,655 1215129ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 07:33:44,540 63278ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 07:37:22,266   827ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 07:47:06,942 585503ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 07:50:33,023 791584ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 07:56:38,051 1156612ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 07:57:51,645 1230205ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 07:57:51,645 1230205ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 08:05:47,615 1706175ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/d6ae6141-25dd-45f9-972a-807b4b585d7f/d6ae6141-25dd-45f9-972a-807b4b585d7f/3/qDeath_to_stock_photography_Wake_Up_10%20(1).jpg' >"
+INFO  2016-06-14 08:05:47,616 1706176ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:20:02,801   440ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 11:29:48,573 586212ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/7dc46600-8182-46c3-8b49-34eb970c796d/7dc46600-8182-46c3-8b49-34eb970c796d/3/qDeath_to_stock_photography_Wake_Up_10%20(7).jpg' >"
+INFO  2016-06-14 11:29:48,574 586213ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:30:42,173 639812ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/31e7d684-7f87-4e7c-ad50-77c4b63d5f46/3/bmx%20(3).jpg' >"
+INFO  2016-06-14 11:30:42,174 639813ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:31:28,828 686468ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 11:33:26,787 804426ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/8e9b9ef4-75f8-4c11-b76b-3ac235f11840/8e9b9ef4-75f8-4c11-b76b-3ac235f11840/3/230H%202016-03-16T114333.jpg' >"
+INFO  2016-06-14 11:33:26,788 804427ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:37:35,157 1052796ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 11:39:06,980 1144619ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 11:40:24,325 1221965ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/99f556d8-3ad7-4781-af42-329ee1a138c0/99f556d8-3ad7-4781-af42-329ee1a138c0/3/ToSearchdup%20(51).jpg' >"
+INFO  2016-06-14 11:40:24,326 1221966ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:43:11,691 1389331ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/3/philippeadmin__mediavalet_net/7713639-submitted/123H.jpg' >"
+INFO  2016-06-14 11:43:11,692 1389332ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:46:44,907 1602547ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 11:49:04,548 1742188ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 11:50:57,452 1855092ms EloquaController       notify             - notify image url "<img src='https://mediavaletteststorage.blob.core.windows.net/medialibrary-02-d2d059bc-2f81-438c-ac26-3ffcbc265abd-r/49d13a9d-834a-448f-99af-c5285db2b74c/49d13a9d-834a-448f-99af-c5285db2b74c/3/Eloqua_ContentService.jpg' >"
+INFO  2016-06-14 11:50:57,453 1855093ms EloquaController       notify             - Notify with instanceid is called done
+INFO  2016-06-14 11:57:46,596 2264236ms EloquaController       Create             - Create Elouqa Call Done
+INFO  2016-06-14 12:00:02,731 2400371ms EloquaController       Create             - Create Elouqa Call Done
